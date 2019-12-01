@@ -1,1 +1,3 @@
-#It's a testing file for watching how Git works. Here is my first line
+#It's a testing file for watching how Git works. Here is my first line. Here are Changes
+My second line of data)
+Changing the first line
